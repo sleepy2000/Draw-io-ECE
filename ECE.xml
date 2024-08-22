@@ -823,5 +823,12 @@
     "h": 10,
     "aspect": "fixed",
     "title": "Negative Charge"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(zZdtb4MgEIB/jV8b9Xz7urjtf1DLJikFo67d/v1QNBOsVMEtS4wJd97DvXCnepA3JaqwF/o3D569MMx8cRPLUl2ipsJFK2VXVBN0pFhqmrbmZ3wjp3YwIazENWk7Lbx4/pN4prsgLzhjAkI4axTNRC9giDBh639K2LD917A6pLEUVGKLC25xLRWBlHrh63ryIVbZvwUOtoAhF5KlREF+RMX5veYf7DS3WtS98RrfUYzqCnWVmylG9YVf8U9wiVoQAFN+RgQlbIpIFUSUbkfEYIEoKG+woZZCvpAKkUJCqcF0UwpDzXl/e/ygIiB2RkSrEP8lhWPOBufH3t10CndHrOsFYzvZ9IKGSCwCiWwQaiBaR+4wF2zSaRWIMRdW3WmDUANxjyNInWuqIWxaZAcvtHEZZNu90BDg7gVEzl5EibMXsUVFNEQSOnthcy52GOAawr2mfzY5jYjMiDC/YuWnuMEYU0qqZjqqsrvNNfwLDIe8VFZL7Afv90dbx/tv3Sdr9vHbS+VPTy/4Bg==);whiteSpace=wrap;html=1;fillColor=#121212;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=east;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"80\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "NMOS with Body Diode"
   }
 ]</mxlibrary>
